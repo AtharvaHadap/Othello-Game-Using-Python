@@ -57,24 +57,6 @@ Durga Dhembare
 
 Tushar Bagul
 
-
-
----
-
-Special Thanks To:
-
-Prof. Priyanka Bhore – for her mentorship and technical guidance throughout the project.
-
-Dr. Bhagyashree Dhakulkar Ma'am, HoD, AI_DS Department.
-
-Dr. Farook Sayyad Sir, Principal.
-
-Dr. Kamaljeet Kaur Siddhu Ma'am, Executive VP, Ajeenkya DY Patil Group.
-
-
-Their support motivated us to constantly improve and succeed.
-
-
 ---
 
 Project Media:
